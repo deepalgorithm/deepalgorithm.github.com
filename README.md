@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages for CSE300
+## Thank you for visiting my Personal Page
 
 You can use the [editor on GitHub](https://github.com/deepalgorithm/deepalgorithm.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
